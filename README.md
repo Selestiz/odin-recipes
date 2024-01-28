@@ -1,0 +1,1 @@
+This is a new repo about creating a project to demonstrate my html knowledge. I will build an html for recipes and use git to save.
